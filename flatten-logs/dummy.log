@@ -1,0 +1,3 @@
+2023-08-17 | INFO | correlation-id-123 | Logged Value Output1
+2023-08-17 | ERROR | correlation-id-123 | Logged Value Output2
+2023-08-18 | INFO | correlation-id-124 | Logged Value Output3
